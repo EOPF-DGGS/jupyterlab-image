@@ -1,2 +1,5 @@
 # linter cache files
 .prettier_cache/
+# pixi environments
+.pixi/*
+!.pixi/config.toml
